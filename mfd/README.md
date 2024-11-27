@@ -74,13 +74,3 @@ This script:
 
 **Press 'q'** to exit the recognition window.
 
-
-## **Usage Workflow**
-1. **Capture Images**:
-   - Use the web interface to capture and save images for each user in the database.
-2. **Generate Encodings**:
-   - Run the encoding script to process and save encodings.
-3. **Recognize Faces**:
-   - Use the real-time recognition script to identify faces in a live webcam feed.
-
-
