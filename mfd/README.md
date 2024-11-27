@@ -1,11 +1,9 @@
 # **Face Recognition Project**
 
----
 
 ## **Overview**
 This project is a real-time **Face Recognition System** that captures, processes, and recognizes faces using webcam input. Facial images are stored in an Oracle database, processed to generate face encodings, and matched against live video feed for recognition.
 
----
 
 ## **Features**
 - **Image Capture**: Capture and save images directly to an Oracle database via a web interface.
@@ -13,7 +11,6 @@ This project is a real-time **Face Recognition System** that captures, processes
 - **Real-Time Recognition**: Recognize faces in real-time using a webcam feed.
 - **Database Integration**: Store face images and metadata in an Oracle database.
 
----
 
 ## **Technologies Used**
 - **Python**: Main programming language.
